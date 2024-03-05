@@ -1,0 +1,11 @@
+    Primeira visita:
+        Eu ligo o primeiro interruptor e o deixo ligado por alguns minutos.
+        Em seguida, eu o desligo e ligo o segundo interruptor.
+        Deixo o segundo interruptor ligado.
+        Deixo o terceiro interruptor desligado.
+
+    Segunda visita:
+        Agora, vou para a sala das lâmpadas.
+        A lâmpada que está acesa está associada ao primeiro interruptor.
+        A lâmpada que está apagada, mas quente ao toque, está associada ao segundo interruptor.
+        A lâmpada que está apagada e fria ao toque está associada ao terceiro interruptor.
